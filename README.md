@@ -84,13 +84,11 @@ Principais funcionalidades exploradas:
 ## 📂 Estrutura do Repositório
 
 ```
-/notes
+
   speech-studio.md
   language-studio.md
   insights.md
 
-/images
-  *.png
 ```
 
 ---
@@ -102,8 +100,8 @@ Principais funcionalidades exploradas:
 3. Acesse:
    - [Speech Studio](https://speech.microsoft.com/)
    - [Language Studio](https://language.cognitive.azure.com/)
-4. Reproduza os experimentos documentados nos arquivos do diretório `/notes`
-5. Faça upload das capturas de tela em `/images`
+4. Reproduza os experimentos documentados nos arquivos do diretório 
+5. Faça upload das capturas de tela 
 6. Atualize este README conforme seus próprios resultados
 
 ---
