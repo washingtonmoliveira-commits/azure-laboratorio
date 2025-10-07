@@ -114,14 +114,9 @@ Principais funcionalidades exploradas:
 - [Documentação oficial do Azure Language Service](https://learn.microsoft.com/azure/cognitive-services/language-service/)
 - [Portal do Azure](https://portal.azure.com)
 
----
-
-## 🧾 Licença
-
-Este repositório é disponibilizado sob a licença MIT.
 
 ---
 
-**Autor:** Seu Nome  
+**Autor:** Washington 
 📅 *Última atualização:* Outubro de 2025  
-📫 *Contato:* seuemail@exemplo.com
+
