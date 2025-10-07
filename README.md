@@ -67,7 +67,7 @@ Principais funcionalidades exploradas:
 - A análise de linguagem natural é fundamental para **interpretação de emoções e intenções** em contextos reais.
 - O **Speech Studio** facilita a criação de soluções de acessibilidade e automação de atendimento por voz.
 
-📘 *Mais detalhes podem ser encontrados no diretório [`/notes`](./notes).*
+📘 *Mais detalhes podem ser encontrados nos diretórios.*
 
 ---
 
@@ -117,6 +117,6 @@ Principais funcionalidades exploradas:
 
 ---
 
-**Autor:** Washington 
+**Autor:** Washington Oliveira
 📅 *Última atualização:* Outubro de 2025  
 
